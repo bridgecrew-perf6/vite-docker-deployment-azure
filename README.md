@@ -1,0 +1,1 @@
+# vite-docker-deployment-azure
